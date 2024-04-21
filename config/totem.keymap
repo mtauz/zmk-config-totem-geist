@@ -1,6 +1,6 @@
 /* source key position labels */
 //#include "zmk-helpers/key-labels/38.h"
-//#include "zmk-helpers/keypos_def/keypos_38keys.h"
+#include "zmk-nodefree-config/keypos_def/keypos_38keys.h"
 
 
 /* map Zen's extra keys */
