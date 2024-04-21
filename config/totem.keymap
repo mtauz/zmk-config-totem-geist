@@ -1,6 +1,7 @@
 /* source key position labels */
 //#include "zmk-helpers/key-labels/38.h"
-#include "../zmk-helpers/keypos_def/keypos_38keys.h"
+#include "zmk-helpers/keypos_def/keypos_38keys.h"
+
 
 /* map Zen's extra keys */
 #define X_LH  &kp LGUI      // thumb row, left
